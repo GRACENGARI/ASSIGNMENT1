@@ -1,0 +1,29 @@
+
+        body{
+            background-color: greenyellow;
+            font-family: "Times New Roman";
+
+        }
+
+        h1:hover,
+        h2:hover,
+        h3:hover,
+        h4:hover,
+        h5:hover{
+            text-decoration: red;
+            font-size: 20px;
+        }
+        /*Internal css*/
+        .styled-button{
+            background-color: aqua;
+            color:white;
+            cursor:pointer;
+            text-decoration: none;
+        }
+        .styled-button:hover{
+            background-color: chartreuse;
+        }
+
+
+
+

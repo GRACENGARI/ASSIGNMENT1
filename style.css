@@ -1,6 +1,6 @@
 
         body{
-            background-color: greenyellow;
+            background-color:chartreuse;
             font-family: "Times New Roman";
 
         }
@@ -15,7 +15,7 @@
         }
         /*Internal css*/
         .styled-button{
-            background-color: aqua;
+            background-color:red;
             color:white;
             cursor:pointer;
             text-decoration: none;
